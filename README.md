@@ -1,0 +1,2 @@
+# United_States_vs_Germany_Energy_Production_Analysis
+ "United States vs. Germany Energy Production Analysis" is a case study conducted using Excel. The project aims to compare and analyze the energy production trends and patterns between the United States and Germany. Through data analysis and visualization in Excel, the study explores factors such as energy sources, consumption trends, and renewable energy adoption in both countries, providing insights into their energy landscapes and potential areas for improvement or collaboration.
